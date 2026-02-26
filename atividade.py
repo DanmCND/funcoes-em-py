@@ -1,7 +1,7 @@
 
 import os 
 def limpar_tela():
-    os.system('cls')
+    os.system("cls")
 
 limpar_tela()
 n1 = int(input("Digite o primeiro número: "))
